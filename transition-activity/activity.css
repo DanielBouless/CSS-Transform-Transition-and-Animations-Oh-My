@@ -1,1 +1,10 @@
 
+button:hover{
+    animation-name: yuh;
+    transition: 2s;
+}
+
+@keyframes yuh {
+    from {background-color: ghostwhite;}
+    to {background-color: cornflowerblue;}
+}
